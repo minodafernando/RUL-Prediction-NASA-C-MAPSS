@@ -46,6 +46,7 @@ Plotted predicted vs. actual RULs for visual analysis
 # 📊 Results
 
 The model accurately captures the degradation pattern across engines with reasonable error margins, showing its potential for real-world predictive maintenance applications.
+![RUL Predictions vs Actual](NASA_RUL/RUL_pred_v_actual_30x5.png)
 
 # 📈 Next Steps
 Drop constant or irrelevant sensors
